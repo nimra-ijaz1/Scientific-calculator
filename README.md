@@ -31,7 +31,7 @@ The calculator is **interactive and responsive**, meaning it works on both deskt
 
 1. Clone the repository:
 
-git clone <>
+git clone <https://github.com/nimra-ijaz1>
 ```
 
 2. Open `index.html` in your web browser.
