@@ -1,12 +1,56 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
 
-# Run and deploy your AI Studio app
+# **Scientific Calculator**
 
-This contains everything you need to run your app locally.
+## **Project Overview**
 
-View your app in AI Studio: https://ai.studio/apps/drive/1t7cJ2KNniNAh1rt3lpNfuJSzi5Z1E1ep
+This project is a **web-based scientific calculator** built with **HTML, CSS, and JavaScript**. It supports basic arithmetic operations (addition, subtraction, multiplication, division) as well as advanced scientific functions such as **square roots, exponents, trigonometric functions (sin, cos, tan), logarithms, and more**.
+
+The calculator is **interactive and responsive**, meaning it works on both desktop and mobile screens. Users can input expressions using buttons or directly via the keyboard (optional).
+
+---
+
+## **Features**
+
+* Basic operations: `+`, `-`, `*`, `/`
+* Advanced operations: `√`, `x²`, `^`, `sin`, `cos`, `tan`, `log`
+* Clear and delete buttons
+* Responsive design for multiple screen sizes
+* Interactive button animations for better UX
+
+---
+
+## **Technology Stack**
+
+* **HTML:** Structure of the calculator
+* **CSS:** Styling and layout, including responsive design
+* **JavaScript:** Logic for calculations, interactive button handling
+
+---
+
+## **How to Use**
+
+1. Clone the repository:
+
+git clone <>
+```
+
+2. Open `index.html` in your web browser.
+3. Use the on-screen buttons to perform calculations.
+
+---
+
+## **Future Enhancements**
+
+* Keyboard input support
+* Memory functions (M+, M-, MR)
+* Dark/light theme toggle
+* History of previous calculations
+
+
+## **Contribution**
+
+Contributions are welcome! If you find bugs or want to add new features, feel free to open an issue or submit a pull request.
+
 
 ## Run Locally
 
